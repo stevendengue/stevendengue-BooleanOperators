@@ -27,7 +27,7 @@ public class Lab {
      */
     public boolean returnNot(boolean b){
         if(b==false){
-            return true;
+            return true ;
         }
         return false;
     }
