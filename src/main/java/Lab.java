@@ -53,7 +53,7 @@ public class Lab {
      */
     public boolean returnOr(boolean b1, boolean b2){
         if((b1==true) || (b2==true)){
-            return true;
+            return true ;
         }
         return false;
     }
